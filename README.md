@@ -10,5 +10,7 @@ The user can:
 
  ## LINKS
  
- [Repo Link](https://github.com/lopezivan763/expressjs-note-taker)
+ - [Repo Link](https://github.com/lopezivan763/expressjs-note-taker)
+ - [Heroku Deployed Link](https://secure-reaches-98242-161a670221c1.herokuapp.com/)
+ 
  
